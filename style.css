@@ -1,0 +1,166 @@
+.logo{
+    width:160px;
+    height:160px;
+}
+.Header{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    align-items: center;
+}
+.Home{
+    min-height: 90vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(polynesia-3021072.jpg);
+    background-size: cover;
+    background-position: center;
+    margin: -120px 0 0 0;
+}
+.Home nav{
+    background-color: skyblue;
+    margin: 120px 0;
+}
+.navbar li{
+    list-style: none;
+    display: inline-block;
+    margin: 10px 30px;
+    color: Black;
+    font-weight: bold;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 7%;
+
+}
+.signup{
+    background: rgb(48, 48, 112);
+    color: White;
+    border-radius: 500px;
+}
+.myaccount{
+    background: rgb(47, 47, 71);
+    color: white;
+    border-radius: 20px;
+}
+.overimage{
+    margin-top: -20%;
+    margin-bottom: -10%;
+}
+.h1{
+    color: whitesmoke;
+    margin-left: 5%;
+}
+.h2{
+    color: whitesmoke;
+    margin-left:6%;
+}
+.booktravel{
+    margin-top: 10.5%;
+    background: white;
+    border: solid black;
+    height: 55px;
+    align-items: center;
+    padding:15px;
+    width: 90%;
+    margin-left: 3%;
+}
+.booktravel form{
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    justify-content: space-between;
+}
+.p.Hotels{
+    margin: 10% 10%;
+}
+.Boxes{
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+}
+.Boxes img{
+    width: 400px;
+    Height: 300px;
+    margin: 10px;
+    transition: 400ms;
+}
+.deals{
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+}
+.deals img{
+    width: 600px;
+    height: 300px;
+    margin: 40px;
+    transition: 400ms;
+}
+.box6{
+    display: flex;
+    margin-left: 2%;
+}
+.box6 img{
+    width:600px;
+    height: 150px;
+    margin: 40px;
+    transition: 400ms;
+}
+.information{
+    margin-left: 80px;
+    color: grey;
+    display: flex;
+    font-weight: bold;
+    justify-content: space-between;
+}
+.socialmedia{
+    margin-left: 84px;
+    display: flex;
+    justify-content: space-between;
+}
+.icons{
+     margin-right: 37%;
+     margin-top: 1.5%
+}
+.license{
+    width: 500px;
+    margin-top: 7%;
+    margin-left: 40%;
+    font-weight: bolder;
+}
+.fa-facebook{
+    color:white;
+    background: mediumaquamarine;
+}
+.fa-twitter{
+    color:white;
+    background: skyblue;
+}
+.fa-google{
+    color:white;
+    background: brown;
+}
+.fa-linkedin{
+    color:white;
+    background: rgb(66, 66, 92);
+}
+.fa-youtube{
+    color:white;
+    background: red;
+}
+.fa{
+    font-size: 20px;
+    justify-content: space-between;
+}
+.contact{
+    margin-left: 60%;
+    font-weight:bold;
+}
+.align{
+    margin-right: 10%;
+    margin-top:1.8%
+}
+.about{
+margin-top: 0.5%;
+}
